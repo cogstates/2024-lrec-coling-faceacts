@@ -1,0 +1,5 @@
+Generate a dialogue between two participants in a chat where one (ER) is attempting to convince the other (EE) to donate to the charity, Save the Children.
+
+For each line, label it by adding one of the following nine options in parenthesis to the end. The criteria for labeling is described below.
+
+{criteria}
